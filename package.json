@@ -1,0 +1,7 @@
+{
+  "name": "repo-review-fixture-yarn",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Small fixture repo with a passing test, using yarn",
+  "scripts": { "test": "node src/math.test.js" }
+}
